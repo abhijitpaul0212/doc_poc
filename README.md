@@ -93,6 +93,7 @@ GitHub Page: [https://abhijitpaul0212.github.io/doc_poc/index.html](https://abhi
 
 
 ### Hosted GitHub Page 
+CLICK HERE [https://abhijitpaul0212.github.io/doc_poc/index.html](https://abhijitpaul0212.github.io/doc_poc/index.html)
 ![image](https://github.com/abhijitpaul0212/sphinx_documentation/assets/9966441/e1a21e36-597d-45c8-b17b-29f272940b1a)
 
 
