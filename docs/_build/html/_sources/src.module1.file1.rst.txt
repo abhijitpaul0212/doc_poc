@@ -1,0 +1,7 @@
+src.module1.file1 module
+========================
+
+.. automodule:: src.module1.file1
+   :members:
+   :undoc-members:
+   :show-inheritance:

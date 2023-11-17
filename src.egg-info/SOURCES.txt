@@ -1,0 +1,12 @@
+setup.py
+src/__init__.py
+src/utils.py
+src.egg-info/PKG-INFO
+src.egg-info/SOURCES.txt
+src.egg-info/dependency_links.txt
+src.egg-info/requires.txt
+src.egg-info/top_level.txt
+src/module1/__init__.py
+src/module1/file1.py
+src/module2/__init__.py
+src/module2/file2.py

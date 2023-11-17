@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Author: Abhijit Paul
+Author-email: abhijitpaul0212@gmail.com
+Requires-Dist: sphinx
+Requires-Dist: sphinx-rtd-theme
+Requires-Dist: sphinx-code-include
+Requires-Dist: sphinx-autobuild
