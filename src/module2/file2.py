@@ -19,6 +19,15 @@ class File2:
         print_value(val)
         return val
 
+    def file2_func3(self) -> str:
+
+        """
+        The file2_func3 function generates strings.
+
+        :return: String value
+        """
+        return "ABC" * 4
+
 
 if __name__ == '__main__':
     f = File2()
