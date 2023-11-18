@@ -84,7 +84,7 @@ Also I have explored gpt4docstrings   to generate DocStrings for one python modu
 
 1. Read the Docs [This would be a better choice| Paid version]
 2. GitHub Pages [For the sake of POC, I used it]
-GitHub Page: [https://abhijitpaul0212.github.io/doc_poc/index.html](https://abhijitpaul0212.github.io/doc_poc/index.html)
+GitHub Page: [https://abhijitpaul0212.github.io/project_documentation_using_sphinx/index.html](https://abhijitpaul0212.github.io/project_documentation_using_sphinx/)
 3. GitLab Pages
 4. Netlify
 5. Your own server
@@ -93,7 +93,9 @@ GitHub Page: [https://abhijitpaul0212.github.io/doc_poc/index.html](https://abhi
 
 
 ### Hosted GitHub Page 
-CLICK HERE [https://abhijitpaul0212.github.io/doc_poc/index.html](https://abhijitpaul0212.github.io/doc_poc/index.html)
+
+CLICK HERE [https://abhijitpaul0212.github.io/project_documentation_using_sphinx/index.html](https://abhijitpaul0212.github.io/project_documentation_using_sphinx/)
+
 ![image](https://github.com/abhijitpaul0212/sphinx_documentation/assets/9966441/e1a21e36-597d-45c8-b17b-29f272940b1a)
 
 
