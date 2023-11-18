@@ -96,7 +96,8 @@ GitHub Page: [https://abhijitpaul0212.github.io/project_documentation_using_sphi
 
 CLICK HERE [https://abhijitpaul0212.github.io/project_documentation_using_sphinx/index.html](https://abhijitpaul0212.github.io/project_documentation_using_sphinx/)
 
-![image](https://github.com/abhijitpaul0212/sphinx_documentation/assets/9966441/e1a21e36-597d-45c8-b17b-29f272940b1a)
+![image](https://github.com/abhijitpaul0212/project_documentation_using_sphinx/assets/9966441/88df9a58-c6b8-4a7b-82d5-481ed16c3c8f)
+
 
 
 
