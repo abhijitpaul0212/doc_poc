@@ -121,4 +121,8 @@ sphinx-apidoc -e -f -o docs src
 e → to separately create rst file for each 
 f  -> to forcefully override and create rst files
 ```
+```bash
+sphinx-apidoc -o docs src src\test1 src\test2\file1
+Module path provided after 'src' will be skipped\ignored. and there will be no .rst file generated for them.
+```
 
