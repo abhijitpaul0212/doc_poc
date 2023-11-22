@@ -19,7 +19,8 @@ jobs:
           sphinx-apidoc -f -o docs src src\module2
       - name: Sphinx publish doc
         run: |
-          sphinx-build docs _build
+          sphinx-autobuild -a docs docs\_build\html
+          # sphinx-build docs _build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
