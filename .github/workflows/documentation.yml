@@ -30,16 +30,6 @@ jobs:
         run: |
           sphinx-build docs _build
           # sphinx-build docs _build -b dirhtml
-
-      - name: Create GitHub Pages branch
-        run: |
-          # git config --global user.name ${{ secrets.GITHUB_ACTOR }}
-          # git config --global user.email ${{ secrets.GITHUB_ACTOR }}@users.noreply.github.com
-          git checkout gh-pages
-          git rm -rf .
-          git add .
-          git commit -m "Deploy to GitHub Pages"
-          git push origin gh-pages
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
