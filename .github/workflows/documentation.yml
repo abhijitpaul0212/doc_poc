@@ -28,7 +28,6 @@ jobs:
       
       - name: Sphinx generate HTML files
         run: |
-          make clean html
           sphinx-build docs _build
           # sphinx-build docs _build -b dirhtml
       
