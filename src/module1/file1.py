@@ -12,7 +12,7 @@ class File1:
         The file1_func1 function takes two strings and returns their concatenation.
 
         :param first: str: Specify that the first parameter is a string
-        :param second: str: Specify the type of the second parameter
+        :param second: int: Specify the type of the second parameter
         :return: The concatenation of the two strings
         """
         val = first+second
