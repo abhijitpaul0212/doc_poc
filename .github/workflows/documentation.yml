@@ -27,7 +27,8 @@ jobs:
       
       - name: Sphinx generate HTML files
         run: |
-          sphinx-build docs _build -b dirhtml
+          sphinx-build docs _build
+          # sphinx-build docs _build -b dirhtml
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
