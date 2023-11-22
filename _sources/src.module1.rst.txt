@@ -1,0 +1,18 @@
+src.module1 package
+===================
+
+.. automodule:: src.module1
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Submodules
+----------
+
+src.module1.file1 module
+------------------------
+
+.. automodule:: src.module1.file1
+   :members:
+   :undoc-members:
+   :show-inheritance:
