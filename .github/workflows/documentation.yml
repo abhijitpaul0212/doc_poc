@@ -16,7 +16,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install dist/*.whl
+          python3 -m pip install --upgrade pip
           pip install sphinx sphinx_rtd_theme myst_parser
       
       - name: Sphinx generate rst files
