@@ -21,7 +21,7 @@ jobs:
       
       - name: Sphinx generate rst files
         run: |
-          sphinx-apidoc --private --module-first -f -o docs src src/module1
+          sphinx-apidoc --module-first -f -o docs src src/module2
           # sphinx-apidoc --no-headings --private --module-first -f -o docs src src/module2
           # sphinx-apidoc --no-toc --module-first -o docs src src/module2
           # sphinx-apidoc -o docs src src\module2
