@@ -21,7 +21,7 @@ jobs:
       
       - name: Sphinx generate rst files
         run: |
-          sphinx-apidoc --no-toc --module-first -o docs src src/module2
+          sphinx-apidoc --no-toc -o docs src src/module2
           # sphinx-apidoc -o docs src src\module2
       
       - name: Sphinx generate HTML files
