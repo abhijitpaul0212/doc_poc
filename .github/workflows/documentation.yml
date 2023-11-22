@@ -13,14 +13,13 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx sphinx_rtd_theme myst_parser sphinx-autobuild
+          pip install sphinx sphinx_rtd_theme myst_parser
       - name: Sphinx generate doc
         run: |
-          sphinx-apidoc -f -o docs src src\module2
+          sphinx-apidoc -o docs src src\module2
       - name: Sphinx publish doc
         run: |
-          sphinx-autobuild -a docs docs\_build\html
-          # sphinx-build docs _build
+          sphinx-build docs _build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
