@@ -8,11 +8,6 @@ permissions:
 jobs:
   docs:
     runs-on: ubuntu-latest
-    container:
-      image: python:3.8
-      volumes:
-        - dist:dist
-        - public:public
     steps:
     
     # check out sources that will be used for autodocs, plus readme
